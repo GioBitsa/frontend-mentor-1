@@ -114,6 +114,10 @@ body{
     border-radius: 0 15px 15px 0;
 }
 
+.attribution{
+   text-align: center;
+}
+
 /* .attribution{
     position: absolute;
     bottom: 10px;
